@@ -7,7 +7,7 @@ import Sidebar from './components/Sidebar/Index';
 function App() {
   return (
     <Router>
-      <Sidebar />
+      <Sidebar />      
       <NavBar />
     </Router>
   );
